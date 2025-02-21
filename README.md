@@ -10,6 +10,7 @@ This repository contains SQL queries for data analysis on the layoffs dataset. T
 - SQL (MySQL)
 
 
+##
 Credits: 
 
 Alex The Analyst 
