@@ -11,8 +11,13 @@ This repository contains SQL queries for data analysis on the layoffs dataset. T
 
 
 ##
+
+
+
+
+
 Credits: 
 
 Alex The Analyst 
 https://www.youtube.com/@AlexTheAnalyst
-- Derived from his SQL Bootcamp
+
